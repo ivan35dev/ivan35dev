@@ -1,4 +1,4 @@
-Hello I am Ivan Romac, Java programmer that makes that survival-horror game called Transpassing Tank
+hello its ivex, a dev that makes interesting things, likable or not
 
 <!---
 ivan35dev/ivan35dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
