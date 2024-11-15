@@ -1,4 +1,4 @@
-hello its ivex, a dev that makes interesting things, likable or not
+there is so many thinkgs to learn, that makes me excited
 
 <!---
 ivan35dev/ivan35dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
